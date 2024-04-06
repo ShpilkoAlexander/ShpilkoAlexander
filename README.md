@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋
+
+Стек: C++, CMake, GCC, STL, QtCreator, Git, Google Protobuf
+
+Контакты:
+
+* Telegram: t.me/ashpilko
+* E-mail: shpilko.alexander@gmail.com
 
 <!--
 **ShpilkoAlexander/ShpilkoAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
