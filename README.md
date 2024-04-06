@@ -1,10 +1,10 @@
 ### 👋
 
-Стек: C++, CMake, GCC, STL, QtCreator, Git, Google Protobuf
+C++, CMake, GCC, STL, Linux, QtCreator, Git, Google Protobuf
 
-Контакты:
+**Контакты для связи:**
 
-* Telegram: t.me/ashpilko
+* Telegram: [ashpilko](https://t.me/ashpilko)
 * E-mail: shpilko.alexander@gmail.com
 
 <!--
